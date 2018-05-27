@@ -1,5 +1,3 @@
-
-
 /**
  * 현재 node 의 Window 객체를 반환한다.
  * @param {*} node 
